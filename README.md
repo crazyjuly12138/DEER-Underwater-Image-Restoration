@@ -21,7 +21,7 @@
 > , achieves improvement of 0.7% ~ 5.6% across nearly all metrics on the LSUI and UIEB datasets. 
 <hr />
 
-![Visual Comparison with SOTA Methods](figure/Figure1.png)
+![Visual Comparison with SOTA Methods](figure/Figure1.jpg)
 
 ##  Requirements
 To install requirements:
@@ -34,3 +34,4 @@ pip install -r requirements.txt
 ## 📢 News / Updates
 *   **[2026-01-5]**: The repository is created.
 *   **[Status]**: The code is currently being refactored for readability. **The full source code will be released immediately upon the acceptance of the paper.**
+
