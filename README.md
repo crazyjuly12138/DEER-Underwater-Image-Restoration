@@ -20,7 +20,8 @@ pip install -r requirements.txt
 
 ## 📢 News / Updates
 *   **[2026-01-5]**: The repository is created.
-*   **[Status]**: The code is currently being refactored for readability. **The full source code will be released immediately upon the acceptance of the paper.**
+*   **[Status]**: The code is currently being refactored for readability. **we will progressively update the repository with more comprehensive implementation details and resources to fully support reproducibility and subsequent studies.**
+
 
 
 
